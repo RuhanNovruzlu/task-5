@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@800&family=Montserrat:wght@600&family=Roboto+Slab:wght@500;700&family=Roboto:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.cantainer{
+    width: 1440px;
+    height: 20000px;
+    background: #FDF0E9;
+    padding: 140px 0px 108px 135px;
+    display: flex;
+}
+h1{
+    margin-bottom: 17px ;
+    color: var(--Text_Dark_Accent, #EF6D58);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 3px;
+text-transform: uppercase;
+}
+p{
+margin-bottom: 80px;
+    color: var(--Text_Dark, #391400);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px; 
+}
+b{
+    margin-right: 66px;
+    margin-bottom: 40px;
+    color: #391400;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 72px;
+font-style: normal;
+font-weight: 800;
+line-height: 80px;
+letter-spacing: -2px;
+} 
+h2{
+    color: var(--Text_Dark, #391400);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: 48px; 
+}
+h3{
+    color: var(--Text_Dark_Gray, rgba(57, 20, 0, 0.64));
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+a{
+    color: var(--Text_Dark, #391400);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+li{
+    display: flex;
+}
+.div-1{
+margin: 140px 0 180px 135px;
+}
+.div-2{
+    margin: 212px 0px 180px 130px;
+}
+
